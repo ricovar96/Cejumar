@@ -765,6 +765,7 @@ body {
   font-weight: 700;
   margin-bottom: 10px;
   font-size: 18px;
+  line-height: 60px;
 }
 
 .about .icon-box .title a {
@@ -778,7 +779,7 @@ body {
 
 .about .icon-box .description {
   margin-left: 85px;
-  line-height: 24px;
+  line-height: 1px;
   font-size: 14px;
 }
 
